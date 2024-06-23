@@ -115,13 +115,19 @@
             "url": "http://103.120.172.74:1030"
         },
         {
-            "id": "20",
+            "id": "21",
+            "name": "Star Sports 1",
+            "image": "https://raw.githubusercontent.com/niteshchavan/NTV/main/Logo/Star_Sports_2013.png",
+            "url": "http://41.205.93.154/STARSPORTS1/index.m3u8"
+        },         
+        {
+            "id": "22",
             "name": "Star Sports 2",
             "image": "https://raw.githubusercontent.com/niteshchavan/NTV/main/Logo/Star_Sports_2013.png",
             "url": "http://103.120.172.74:4200"
         }, 
         {
-            "id": "21",
+            "id": "23",
             "name": "HBO",
             "image": "",
             "url": "http://195.26.87.217/live.ts?channelId=49858&uid=7435&deviceMac=00:1A:79:51:4B:3A"
