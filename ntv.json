@@ -98,9 +98,34 @@
         },
         {
             "id": "17",
-            "name": "TEST",
+            "name": "Star Pravah",
             "image": "",
-            "url": "https://webudit.salamus1.lol/lb/premium501/index.m3u8?|referer=https://olacast.live/&e.m3u8"
-        }  
+            "url": "http://103.120.172.74:1060"
+        },  
+        {
+            "id": "18",
+            "name": "Colors",
+            "image": "",
+            "url": "http://103.120.172.74:1070"
+        },
+        {
+            "id": "19",
+            "name": "Star Sports Select 1",
+            "image": "",
+            "url": "http://103.120.172.74:1030"
+        },
+        {
+            "id": "20",
+            "name": "Star Sports 2",
+            "image": "",
+            "url": "http://103.120.172.74:4200"
+        }, 
+        {
+            "id": "21",
+            "name": "HBO",
+            "image": "",
+            "url": "http://195.26.87.217/live.ts?channelId=49858&uid=7435&deviceMac=00:1A:79:51:4B:3A"
+        }
+        
     ]
 }
