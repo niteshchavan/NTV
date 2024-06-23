@@ -131,7 +131,32 @@
             "name": "HBO",
             "image": "",
             "url": "https://fl2.moveonjoy.com/HBO_2/index.m3u8"
-        }
-        
+        },
+        {
+            "id": "24",
+            "name": "MILF",
+            "image": "",
+            "url": "https://cdn.adultiptv.net/milf.m3u8"
+        },
+        {
+            "id": "25",
+            "name": "MILF2",
+            "image": "",
+            "url": "https://cdn.redtraffic.net/milf.m3u8"
+        },
+        {
+            "id": "26",
+            "name": "VOD",
+            "image": "",
+            "url": "https://adultiptv.net/videos.m3u8"
+           
+        },
+         {
+            "id": "27",
+            "name": "P Stars",
+            "image": "",
+            "url": "https://live.adultiptv.net/pornstar.m3u8"
+           
+        } 
     ]
 }
