@@ -1,1 +1,138 @@
-private.json
+{
+    "NTV": [
+        {
+            "id": "1",
+            "name": "Discovery Science",
+            "image": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png",
+            "url": "https://od.lk/s/ODRfNzIxOTE5NjBf/Discovery_Science.m3u8"
+        },
+        {
+            "id": "2",
+            "name": "Investigation Discovery",
+            "image": "https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png",
+            "url": "https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8"
+        },
+        {
+            "id": "3",
+            "name": "Discovery Turbo",
+            "image": "https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png",
+            "url": "https://od.lk/s/ODRfNzIxOTE5NTlf/Discovery_Turbo.m3u8"
+        },
+        {
+            "id": "4",
+            "name": "Discovery Hindi HD",
+            "image": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png",
+            "url": "https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8"
+        },
+        {
+            "id": "5",
+            "name": "Animal Planet",
+            "image": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png",
+            "url": "https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8"
+         },
+        {
+            "id": "6",
+            "name": "Nat Geo HD",
+            "image": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png",
+            "url": "http://watchindia.net:8880/live/83023/62335/790.m3u8"
+        },
+        {
+            "id": "7",
+            "name": "Nat Geo Wild",
+            "image": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png",
+            "url": "https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8"
+        },
+        {
+            "id": "8",
+            "name": "Cartoon Network",
+            "image": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png",
+            "url": "https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8"
+        } ,
+        {
+            "id": "9",
+            "name": "Discovery Kids",
+            "image": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png",
+            "url": "https://dplus.gammacdn.workers.dev/videos/113.m3u8"
+        },
+        {
+            "id": "10",
+            "name": "Pogo",
+            "image": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg",
+            "url": "https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8"
+        }, 
+        {
+            "id": "11",
+            "name": "Action Hollywood Movies",
+            "image": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg",
+            "url": "https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"
+        },
+        {
+            "id": "12",
+            "name": "Movies Now HD",
+            "image": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png",
+            "url": "http://xtv.ooo:8080/live/adnankb2006/86057314/109968.m3u8"
+        },
+        {
+            "id": "13",
+            "name": "Aljazeera",
+            "image": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png",
+            "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8"
+        },
+        {
+            "id": "14",
+            "name": "BBC World",
+            "image": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png",
+            "url": "https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8"
+        },
+        {
+            "id": "15",
+            "name": "CNN",
+            "image": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png",
+            "url": "https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8"
+        },        
+        {
+            "id": "16",
+            "name": "Zee Marathi",
+            "image": "https://raw.githubusercontent.com/niteshchavan/NTV/main/Logo/zee%20marathi.png",
+            "url": "http://103.120.172.74:1040"
+        },
+        {
+            "id": "17",
+            "name": "Star Pravah",
+            "image": "https://raw.githubusercontent.com/niteshchavan/NTV/main/Logo/Star_Pravah_HD.jpg",
+            "url": "http://103.120.172.74:1060"
+        },  
+        {
+            "id": "18",
+            "name": "Colors HD",
+            "image": "https://raw.githubusercontent.com/niteshchavan/NTV/main/Logo/colors_hd.png",
+            "url": "http://103.120.172.74:1070"
+        },
+        {
+            "id": "19",
+            "name": "Star Sports Select 1",
+            "image": "https://raw.githubusercontent.com/niteshchavan/NTV/main/Logo/Star_Sports_2013.png",
+            "url": "http://103.120.172.74:1030"
+        },
+        {
+            "id": "21",
+            "name": "Star Sports 1",
+            "image": "https://raw.githubusercontent.com/niteshchavan/NTV/main/Logo/Star_Sports_2013.png",
+            "url": "http://41.205.93.154/STARSPORTS1/index.m3u8"
+        },         
+        {
+            "id": "22",
+            "name": "Star Sports 2",
+            "image": "https://raw.githubusercontent.com/niteshchavan/NTV/main/Logo/Star_Sports_2013.png",
+            "url": "http://103.120.172.74:4200"
+        }, 
+        {
+            "id": "23",
+            "name": "HBO",
+            "image": "",
+            "url": "https://fl2.moveonjoy.com/HBO_2/index.m3u8"
+        }
+
+        
+    ]
+}
