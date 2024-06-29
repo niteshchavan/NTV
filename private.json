@@ -103,6 +103,18 @@
             "url": "https://news.codeautoplay.workers.dev/?codeby=nd&channel=zee24taas"
         },
         {
+            "id": "17",
+            "name": "TV9 MARATHI",
+            "image": "https://i.imgur.com/5lW63rY.png",
+            "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_720p/chunks.m3u8"
+        },
+        {
+            "id": "17",
+            "name": "ABP MAJHA",
+            "image": "https://i.imgur.com/wjWL1YB.png?1",
+            "url": "https://abplivetv.akamaized.net/hls/live/2043011/manjha/master_720p.m3u8"
+        },        
+        {
             "id": "18",
             "name": "Star Pravah",
             "image": "https://raw.githubusercontent.com/niteshchavan/NTV/main/Logo/Star_Pravah_HD.jpg",
