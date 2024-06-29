@@ -131,7 +131,68 @@
             "name": "HBO",
             "image": "",
             "url": "https://fl2.moveonjoy.com/HBO_2/index.m3u8"
+        }, 
+        {
+            "id": "1",
+            "name": "SONY PIX HD",
+            "image": "https://i.imgur.com/O0vSVMI.png",
+            "url": "http://filex.tv:8080/shakeelmirza/4110440/75"
+        },
+        {
+            "id": "2",
+            "name": "STAR MOVIES",
+            "image": "https://i.imgur.com/uStd85l.png",
+            "url": "http://filex.tv:8080/shakeelmirza/4110440/75"
+        },
+        {
+            "id": "3",
+            "name": "STAR MOVIES SELECT ENGLISH HD",
+            "image": "https://tvscheduleindia.com/assets/brand/channels/i7ifGMFv.png",
+            "url": "http://filex.tv:8080/shakeelmirza/4110440/52225"
+        },
+        {
+            "id": "4",
+            "name": "HBO",
+            "image": "https://logowik.com/content/uploads/images/hbo.jpg",
+            "url": "http://filex.tv:8080/shakeelmirza/4110440/303348"
+        },
+        {
+            "id": "5",
+            "name": "WARNER CHANNEL",
+            "image": "https://i.imgur.com/gPgGnkC.png",
+            "url": "http://filex.tv:8080/shakeelmirza/4110440/316107"
+        },
+        {
+            "id": "6",
+            "name": "AXN SD",
+            "image": "https://i.imgur.com/RSaVuX8.png",
+            "url": "http://filex.tv:8080/shakeelmirza/4110440/303248"
+        },
+        {
+            "id": "7",
+            "name": "COMEDY CENTRAL",
+            "image": "https://i.imgur.com/w9mEsuu.png",
+            "url": "http://filex.tv:8080/shakeelmirza/4110440/285196"
+        },
+        {
+            "id": "8",
+            "name": "& FLIX HD",
+            "image": "https://i.imgur.com/UocrKIz.png",
+            "url": "http://67288675027817111.napgoto413.xyz:80/play/vi608634/Tgn9Cjfe5y/817111.ts"
+        },
+        {
+            "id": "9",
+            "name": "& PRIVE HD",
+            "image": "https://i.imgur.com/qyK4ceT.png",
+            "url": "http://watchindia.net:8880/live/14045/34798/2103.ts"
+        },
+        {
+            "id": "10",
+            "name": "MOVIE NOW HD",
+            "image": "https://i.imgur.com/EgeA30s.png",
+            "url": "http://filex.tv:8080/shakeelmirza/4110440/113"
         }
+        
 
         
     ]
