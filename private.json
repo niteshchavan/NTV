@@ -96,8 +96,14 @@
             "image": "https://raw.githubusercontent.com/niteshchavan/NTV/main/Logo/zee%20marathi.png",
             "url": "http://103.120.172.74:1040"
         },
-        {
+       {
             "id": "17",
+            "name": "Zee 24 tas",
+            "image": "https://raw.githubusercontent.com/niteshchavan/NTV/main/Logo/zee%20marathi.png",
+            "url": "https://news.codeautoplay.workers.dev/?codeby=nd&channel=zee24taas"
+        },
+        {
+            "id": "18",
             "name": "Star Pravah",
             "image": "https://raw.githubusercontent.com/niteshchavan/NTV/main/Logo/Star_Pravah_HD.jpg",
             "url": "http://103.120.172.74:1060"
