@@ -132,6 +132,13 @@
             "image": "https://i.imgur.com/O0vSVMI.png",
             "url": "http://filex.tv:8080/shakeelmirza/4110440/75"
         },
+       {
+            "id": "28",
+            "name": "SONY PIX HD 2",
+            "image": "https://i.imgur.com/O0vSVMI.png",
+            "url": "http://tv.cloudcdn.me/live.ts?channelId=189&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32"
+        },
+        
         {
             "id": "30",
             "name": "STAR MOVIES SELECT ENGLISH HD",
